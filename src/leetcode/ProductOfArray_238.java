@@ -17,7 +17,19 @@ public class ProductOfArray_238 {
 		for(int n:result) {
 			System.out.println(n);
 		}
-		
+//		for (int i=0;i<nums.length;i++) {
+//			int mul=1;
+//			for (int j=0;j<nums.length;j++) {
+//				if(i==j) {
+//					continue;
+//				}
+//				mul*=nums[j];
+//			}
+//			result[i]=mul;
+//		}
+//		for(int n:result) {
+//			System.out.println(n);
+//		}
 	}
 
 }
