@@ -1,6 +1,6 @@
 // Remove Duplicates from Sorted Array
-
-class Solution {
+package leetcode;
+class _java {
     public int removeDuplicates(int[] nums) {
         int i=1;
         if (nums.length==0){
